@@ -1,4 +1,4 @@
-import 
+import random
 
 passlen = int(input("Enter password length "))
 passnum = int(input("Enter number of passwords "))
