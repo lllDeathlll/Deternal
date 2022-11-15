@@ -1,4 +1,5 @@
 #Visual Studio files 
+.vscode/
 *.[Oo]bj 
 *.user 
 *.aps 
