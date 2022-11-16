@@ -1,7 +1,7 @@
 import random
 
-passlen = int(input("Enter password length "))
-passnum = int(input("Enter number of passwords "))
+passlen = int(input("Enter password length (Can't be more than 72 symbols): "))
+passnum = int(input("Enter number of passwords: "))
 
 lower_case = "abcdefghijklmnopqrstuvwxyz"
 upper_case = lower_case.upper()
