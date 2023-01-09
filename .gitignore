@@ -5,6 +5,10 @@ vscode/*
 !.vscode/extensions.json
 !.vscode/*.code-snippets
 
+Cargo.lock
+Cargo.toml
+target
+
 # Local History for Visual Studio Code
 .history/
 
